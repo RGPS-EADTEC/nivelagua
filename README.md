@@ -13,11 +13,11 @@ O sistema deverá trabalhar com cinco níveis de água, representados em uma lis
 
 Nível do reservatório 	Situação 	Cor sugerida
 
-Nível 1 	Muito baixo (crítico) 	Vermelho
-Nível 2 	Baixo 	Amarelo
-Nível 3 	Médio 	Verde
-Nível 4 	Alto 	Ciano
-Nível 5 	Muito alto (alerta) 	Azul
+- Nível 1 	Muito baixo (crítico) 	Vermelho
+- Nível 2 	Baixo 	Amarelo
+- Nível 3 	Médio 	Verde
+- Nível 4 	Alto 	Ciano
+- Nível 5 	Muito alto (alerta) 	Azul
 
 O programa deverá:
 - Utilizar uma lista para armazenar os níveis ou as mensagens do reservatório;
