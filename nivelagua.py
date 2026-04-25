@@ -1,3 +1,6 @@
+#nivelagua.py
+#Controle de Niveis de Agua
+
 from colorama import init, Fore
 
 # Inicializa o colorama para garantir o reset automático das cores
@@ -29,3 +32,12 @@ if __name__ == "__main__":
     exibir_status_reservatorio(4)
     exibir_status_reservatorio(5)
     exibir_status_reservatorio(6)
+
+#SAIDAS NA TELA:
+
+#Nível 1: Muito baixo (crítico) EM VERMELHO
+#Nível 2: Baixo EM AMARELO
+#Nível 3: Médio EM VERDE
+#Nível 4: Alto EM CIANO (AZUL CLARO)
+#Nível 5: Muito alto (alerta) EM AZUL MARINHO
+#Nível 6 inválido. EM BRANCO
